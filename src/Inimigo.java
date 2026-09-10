@@ -7,4 +7,12 @@ public abstract class Inimigo {
     ArrayList<String> toppings = new ArrayList<String>();
 
     abstract void atacar();
+
+    public String getName() {
+        return nome;
+    }
+
+    public String getPoder() {
+        return poder;
+    }
 }
