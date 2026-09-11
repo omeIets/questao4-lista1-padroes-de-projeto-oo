@@ -1,3 +1,6 @@
+# Questão 4 - Lista 1 Padrões de Projeto OO
+**Alunos:** Maria Letícia de Sousa Barboza e Caio Vinícius de Santana Gomes
+
 Este repositório contém a solução para a lista de exercícios de Padrões de Projeto Orientados a Objetos, demonstrando a aplicação do **Factory Method**.
 
 ## 📖 O Problema
